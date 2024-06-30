@@ -102,6 +102,11 @@ h3 {
     text-align: center;
 }
 
+.product
+{
+    padding-top: 150px;
+}
+
 .phone-container {
     display: flex;
     justify-content: center;
